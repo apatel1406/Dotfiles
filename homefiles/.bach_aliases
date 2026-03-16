@@ -2,6 +2,7 @@
 
 alias webCoffee='cd /var/www/Coffeeshop.com'
 alias webMenu='cd /var/www/Menu.com'
+alias web='cd /var/www/'
 
 alias conf='cd /etc/apache2/sites-available/'
 
