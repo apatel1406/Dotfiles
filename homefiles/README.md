@@ -1,0 +1,18 @@
+#!/bin/bash
+
+alias webCoffee='cd /var/www/Coffeeshop.com'
+alias webMenu='cd /var/www/Menu.com'
+
+alias conf='cd /etc/apache2/sites-available/'
+
+alias gs='git status'
+alias ga='git add'
+alias gc='git commit -m'
+
+alias sai='sudo apt install'
+alias sau='sudo apt update'
+
+alias start='sudo systemctl start apache2'
+alias stop='sudo systemctl stop apache2'
+alias restart='sudo systemctl restart apache2'
+alias status='sudo systemctl status apache2'
