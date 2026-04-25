@@ -21,6 +21,6 @@ fi
 - Echo message to let the user know that file has been copied and how they can reload
 
 ### Links 
-- [Aliases](https://github.com/ctrlaltvikas/awesome-bash-alias)
-- [Copying-Files-Scirpt](https://stackoverflow.com/questions/61959150/shell-script-to-copy-the-files)
-- [Source-Alias-Script](https://gist.github.com/zachbrowne/8bc414c9f30192067831fafebd14255c)
+- [Aliases](https://github.com/ctrlaltvikas/awesome-bash-alias) > Used for common and useful Bash aliases
+- [Copying-Files-Scirpt](https://stackoverflow.com/questions/61959150/shell-script-to-copy-the-files) > Helpful guide to use cp command in script
+- [Source-Alias-Script](https://gist.github.com/zachbrowne/8bc414c9f30192067831fafebd14255c) > Helped to make the script so aliases start working as soon as the machine loads up.
